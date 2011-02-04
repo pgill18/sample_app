@@ -189,3 +189,12 @@ div.field, div.actions {
   font-size: 12px;
   list-style: square;
 }
+
+/* CSS for the users index */
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
